@@ -3,7 +3,7 @@
                 <title>งานที่ 1</title>
         </head>
         <body bgcolor="lightblue">
-                <br>ประวัติส่วนตัว
+                <b>ประวัติส่วนตัว
                 <br>
                 <br>
                 <b>ชื่อ : </b> <i> ใอสนป์ ศรีธนัชโกสิณ </i>
