@@ -1,8 +1,11 @@
 <html>
-        <head><br>ประวัติส่วนตัว
+        <head>
                 <title>งานที่ 1</title>
         </head>
         <body bgcolor="lightblue">
+                <br>ประวัติส่วนตัว
+                <br>
+                <br>
                 <b>ชื่อ : </b> <i> ใอสนป์ ศรีธนัชโกสิณ </i>
                 <br>
                 <b>ชื่อเล่น : </b> <i> ฟ้าใส </i>
