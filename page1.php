@@ -1,7 +1,7 @@
 <html>
         <head>
-                <title>ประวัติส่วนตัว</title>
-        </head>
+                <title>งานที่ 1</title>
+        </head><br>ประวัติส่วนตัว
         <body bgcolor="lightblue">
                 <b>ชื่อ : </b> <i> ใอสนป์ ศรีธนัชโกสิณ </i>
                 <br>
