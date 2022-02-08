@@ -13,15 +13,15 @@
       </tr>
       <tr>
         <td>1</td>
-        <td>ส้ม</td>
         <td>มารี เออเจนี เลอเอย์</td>
+        <td>ส้ม</td>
         <td><img src="https://s.isanook.com/jo/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2pvLzAvdWQvNDg0LzI0MjA4MTMvejIuanBn.jpg" width="130px"></td>
         <td><a href="https://twitter.com/zommarie?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
       </tr>
       <tr>
         <td>2</td>
-        <td>โอลิเวีย</td>
         <td>โอลิเวีย อีซาเบล ร็อดริโก</td>
+        <td>โอลิเวีย</td>
         <td><img src="https://assets.teenvogue.com/photos/6076dcb99774944e1309a4d1/2:3/w_1000,h_1500,c_limit/olivia.jpeg" width="130px"></td>
         <td><a href="https://twitter.com/oliviarodrigo?lang=en">twitter</a></td>
       </tr>  
