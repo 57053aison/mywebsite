@@ -27,10 +27,10 @@
       </tr>
       <tr>
         <td>3</td>
-        <td>กฤตย์ จีรพัฒนานุวงศ์</td>
-        <td>กิต</td>
-        <td><img src="https://scontent.fbkk9-3.fna.fbcdn.net/v/t1.6435-9/188460119_331609828622408_1402242326305635154_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGNr02FoW9HAWbWl6cEYeMxKBpNId4sVpkoGk0h3ixWmRLIJly6a5YR_9GincMV49U9p8dlvhpLjsJfBO963GAp&_nc_ohc=zfM1fdxiFo0AX-YraGP&_nc_ht=scontent.fbkk9-3.fna&oh=00_AT_LAlweG7_xfy_mfz9zqGZ8-1fsqLonrwQoTK3eVjvJpQ&oe=6225ECD8" width="130px"></td>
-        <td><a href="https://twitter.com/kittyumbs?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor">twitter</a></td>
+        <td>อี จีอึน</td>
+        <td>ไอยู</td>
+        <td><img src="https://www.akerufeed.com/wp-content/uploads/2021/02/iu1.png" width="130px"></td>
+        <td><a href="https://mobile.twitter.com/_iuofficial?lang=en">twitter</a></td>
       </tr>
       <tr>
         <td>4</td>
