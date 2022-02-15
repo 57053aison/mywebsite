@@ -1,6 +1,10 @@
 <html>
 	<head>
 		<title>การตกแต่งเว็บไซต์ด้วย CSS</title>
+		<style>
+			h1{
+				color: green;
+			  }
 	</head>
 	<body>
 		<p style="color:green;">ข้อความนี้สีเขียวปกติ</p>
