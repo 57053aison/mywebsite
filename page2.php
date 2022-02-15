@@ -16,10 +16,7 @@
 	</head>
 	<body>
 		<div id="box1" class="box">
-			<h1>กล่องที่ 1</h1>
-		</div>
-		<div id="box2" class="box">
-			<h1>กล่องที่ 2</h1>
+			<h1>นางสาวใอสนป์ ศรีธนัชโกสิณ เลขที่ 25 ชั้นม.4/13</h1>
 		</div>
 	</body>
 </html>
