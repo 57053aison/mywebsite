@@ -5,6 +5,10 @@
 			h1{
 				color: green;
 			  }
+			h2{
+				color : yellow;
+			  }
+		</style>
 	</head>
 	<body>
 		<p style="color:green;">ข้อความนี้สีเขียวปกติ</p>
