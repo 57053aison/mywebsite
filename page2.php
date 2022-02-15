@@ -6,12 +6,11 @@
 				width: 800px;
 				height: 350px;
 			}
-			#box2{
-				width: 600px;
-				height: 150px;
-			}
 			.box{
-				background-color: green;
+				background-color: lightblue;
+			}
+			body{
+				background-color: pink;
 			}
 		</style>
 	</head>
