@@ -14,6 +14,7 @@
 			}
 			h1{
 				color:yellow;
+			}
 		</style>
 	</head>
 	<body>
