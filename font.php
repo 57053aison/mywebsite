@@ -12,10 +12,10 @@
       font-family: myFont2;
       src: url(SP-Yok N.woff)
     }
-    @font1{
+    #font1{
       font-family: myFont1;
     }
-    @font2{
+    #font2{
       font-family: myFont2;
     }  
   </style>
