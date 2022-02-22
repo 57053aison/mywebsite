@@ -10,7 +10,7 @@
     }
      @font-face{
       font-family: myFont2;
-      src: url(SP-Yok N.woff)
+      src: url(Mipancake.woff)
     }
     #font1{
       font-family: myFont1;
